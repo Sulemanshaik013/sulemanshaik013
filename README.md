@@ -52,8 +52,8 @@ I’m a backend engineer focused on building fast, reliable, and scalable backen
 <details>
   <summary>Other GitHub Stats</summary>
   <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sulemanshaik013&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="sulemanshaik013" height=150px/>
-    <img  src="https://github-readme-stats.vercel.app/api?username=sulemanshaik013&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="sulemanshaik013" height=150px />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sulemanshaik013&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="sulemanshaik013" height=150px/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=sulemanshaik013&locale=en&theme=tokyonight&hide_border=true" alt="sulemanshaik013" height=150px />
   <!--src="https://github-readme-stats.vercel.app/api?username=sulemanshaik013&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/> -->
   </p>
 </details>
