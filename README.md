@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Hello World!, I'm Suleman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&pause=700&color=F7D394&width=435&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=1000&pause=1000&color=F7F26C&width=438&height=70&lines=Java+Backend+Engineer+%7C+Spring+Boot+%7C+SQL;Microservices+%7C+Distributed+Systems+%7C+Cloud;3%2B+years+building+scalable+backend+systems" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=sulemanshaik013&label=Profile%20views&style=flat-square&color=yellow" alt="sulemanshaik013"/></div>
